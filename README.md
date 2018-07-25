@@ -1,0 +1,1 @@
+# MorphologicalAnalysis_by_janome
