@@ -65,30 +65,3 @@ print(model.most_similar(positive=['カムパネルラ']))
 
 
 
-
-
-    # print(rl)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# print(text)
-
-
-
-
-
-
